@@ -1,33 +1,35 @@
 # Hi, I'm Tainara da Rosa 👋
 
-**Computer Engineering student | Software Development & Industrial Automation**
+**Backend-focused software developer | Computer Engineering undergraduate | Industrial automation programmer**
 
-I'm a Computer Engineering undergraduate at **SATC** and a **PLC Programmer II**, working with industrial automation since 2022. I enjoy building practical software, understanding complex systems, and turning real operational problems into reliable solutions.
+I study **Computer Engineering at SATC** and have worked in industrial automation since **2022**, currently as a **PLC Programmer II**. My professional experience involves implementing control logic, working with SCADA systems and databases, and solving problems where reliability and clear behavior matter.
 
-My current focus is **backend development, APIs, databases, and software architecture**, while expanding my experience with mobile applications and applied AI.
+I'm bringing that engineering background into software development, with a focus on **backend systems, APIs, databases, testing, and software architecture**.
 
-## Tech & tools
+### Technologies I work with
 
-- **Backend & data:** Java, Spring Boot, REST APIs, SQL
-- **Programming:** Python, Kotlin, JavaScript
-- **Mobile development:** Jetpack Compose, React Native
-- **Industrial automation:** Siemens PLCs (SCL/Ladder), Elipse E3 SCADA
-- **Workflow:** Git, GitHub, Docker (fundamentals)
+- **Backend & data:** Java, Spring Boot, REST APIs, SQL, Python, Flask
+- **Languages:** Java, Python, Kotlin, JavaScript
+- **Mobile:** Android, Jetpack Compose, React Native
+- **Industrial systems:** Siemens PLCs (SCL/Ladder), Elipse E3 SCADA
+- **Tools & practices:** Git, GitHub, Docker (fundamentals)
 
-## Selected projects
+### Projects you can explore
 
-| Project | What it demonstrates |
-| --- | --- |
-| [AI Project](https://github.com/tamiriel/Projeto-IA) | Academic exploration of structured data, tax scenarios, and forecasting. |
-| [Virtual Store in Kotlin](https://github.com/tamiriel/EXERCICIO_LOJA_VIRTUAL) | Object-oriented design, product catalog, inventory, and shopping cart logic. |
-| [Android Treasure Hunt](https://github.com/tamiriel/EXERCICIO_CACA_AO_TESOURO) | Kotlin, Jetpack Compose, navigation, and interactive mobile screens. |
+| Project | Stack | What it shows |
+| --- | --- | --- |
+| [AI-assisted Financial Scenarios API](https://github.com/tamiriel/Projeto-IA) | Python, Flask, Gemini API | JSON API integration and structured LLM responses; **experimental prototype** |
+| [Virtual Store](https://github.com/tamiriel/EXERCICIO_LOJA_VIRTUAL) | Kotlin | Object-oriented modeling, shopping-cart logic and business rules |
+| [Android Treasure Hunt](https://github.com/tamiriel/EXERCICIO_CACA_AO_TESOURO) | Kotlin, Jetpack Compose | Native UI, navigation, input validation and game flow |
 
-## Currently building
+### Currently building
 
-**ServiceOps** — a multi-tenant SaaS platform for service businesses, designed around customer and work-order management, access control, tenant isolation, and maintainable software architecture. *In development.*
+**ServiceOps** — a multi-tenant SaaS concept for service operations, with planned customer management, work orders, role-based access and tenant isolation. **Status: planning and initial development; repository currently private.** The goal is to develop and document it incrementally, with automated tests and reproducible setup.
 
-## What I'm working toward
+I'm also working on **VIAGE**, a travel-platform project, and **Cítera**, a literary-club website. I'll link their repositories here as public implementations become available.
 
-Building a portfolio of well-documented software projects with clear requirements, thoughtful architecture, automated tests, and real-world use cases.
+### How I approach engineering
 
-**Based in Brazil · Open to software development opportunities**
+I value clear requirements, readable code, reliable workflows and honest documentation. My background bridges **software and operational technology**, from PLC and SCADA logic to application development.
+
+**📍 Brazil · Open to junior software development opportunities, including remote roles.**
